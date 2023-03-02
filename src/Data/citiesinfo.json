@@ -1,4 +1,16 @@
 [
+   
+  {
+    "city": "Nāgpur", 
+    "lat": "21.1539", 
+    "lng": "79.0831", 
+    "country": "India", 
+    "iso2": "IN", 
+    "admin_name": "Mahārāshtra", 
+    "capital": "", 
+    "population": "2405665", 
+    "population_proper": "2405665"
+  }, 
   {
     "city": "Delhi", 
     "lat": "28.6600", 
@@ -141,18 +153,7 @@
     "capital": "", 
     "population": "2496970", 
     "population_proper": "2496970"
-  }, 
-  {
-    "city": "Nāgpur", 
-    "lat": "21.1539", 
-    "lng": "79.0831", 
-    "country": "India", 
-    "iso2": "IN", 
-    "admin_name": "Mahārāshtra", 
-    "capital": "", 
-    "population": "2405665", 
-    "population_proper": "2405665"
-  }, 
+  },
   {
     "city": "Ghāziābād", 
     "lat": "28.6667", 
